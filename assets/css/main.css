@@ -4537,23 +4537,6 @@ input, select, textarea {
 				background-color: #ffffff;
 			}
 
-		@media screen and (max-width: 980px) {
-
-			#navPanelToggle {
-				display: block;
-			}
-
-		}
-
-		@media screen and (max-width: 736px) {
-
-			#navPanelToggle {
-				font-size: 0.8rem;
-				padding: 0.25rem 1rem;
-			}
-
-		}
-
 	#navPanel {
 		-moz-transform: translateX(20rem);
 		-webkit-transform: translateX(20rem);
